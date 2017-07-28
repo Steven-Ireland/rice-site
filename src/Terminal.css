@@ -1,0 +1,31 @@
+.Terminal {
+  background-color: #333;
+  padding: 1em;
+  opacity: 0.9;
+
+  margin: auto;
+  margin-top: 2em;
+
+  border: 2px solid lightgray;
+}
+
+.Terminal:hover {
+  border: 2px solid #bfb;
+}
+
+.Terminal:not(:first-child)  {
+  margin-top: 10em;
+}
+
+.Terminal p {
+  color: #fff;
+}
+
+.Terminal .title {
+  border-bottom: 1px #fff dashed;
+  padding-bottom: 1em;
+
+  font-size: 1.1em;
+
+  color: #bfb;
+}

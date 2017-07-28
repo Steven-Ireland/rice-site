@@ -1,0 +1,12 @@
+.Signup {
+    margin: auto;
+    opacity: 0.9;
+}
+
+.Signup input {
+    padding: 2em;
+    margin: -1em;
+    background-color: #333;
+    border: none;
+    color: #fff;
+}
